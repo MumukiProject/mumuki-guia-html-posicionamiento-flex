@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:#estanque
+  inspection: 'DeclaresStyle:display: flex'
