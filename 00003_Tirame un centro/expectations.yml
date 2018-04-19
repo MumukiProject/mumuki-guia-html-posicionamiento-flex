@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: css:#estanque
+  inspection: 'DeclaresStyle:justify-content: center'
+- binding: css:#estanque
+  inspection: 'DeclaresStyle:display: flex'
